@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 
   <h1>Hello, I'm Hiitaro 👋</h1>
-  <p>💻 Passionate about cybersecurity, coding, and music. Always learning, always building.</p>
+  <p>💻 Passionate about cybersecurity, coding, and guitar. Always learning, always building.</p>
 
   <div id="badges" text-decoration="none">
     <a href="https://yourwebsite.com">
