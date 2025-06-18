@@ -28,7 +28,7 @@
 
   <p><strong>📈 GitHub Stats & Most Used Languages:</strong></p>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hiitaro&show_icons=true&theme=radical&cache_buster=624035144" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiitaro&layout=compact&theme=radical&cache_buster=14131" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hiitaro&show_icons=true&theme=radical&cache_buster=624012335144" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiitaro&layout=compact&theme=radical&cache_buster=14123131" alt="Top Languages"/>
   </div>
 </div>
