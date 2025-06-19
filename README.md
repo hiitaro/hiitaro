@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 
-  <h1>Hello, I'm Hiitaro 👋</h1>
+  <h1>Hello, I'm ke.i 👋</h1>
   <p>💻 Passionate about cybersecurity, coding, and guitar. Always learning, always building.</p>
 
   <div id="badges" style="text-decoration: none;">
